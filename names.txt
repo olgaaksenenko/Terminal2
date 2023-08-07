@@ -1,4 +1,8 @@
 1) John
 2) Emily
-3) Max4) Mary
+3) Max
+4) Mary
 5) Enson
+6) Anna
+7) Kate
+8) Diana
